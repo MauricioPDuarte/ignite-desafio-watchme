@@ -16,8 +16,8 @@
 <!-- ![Alt Text](https://github.com/MauricioPDuarte/ignite-atividades-a-fazer/blob/main/atividades-a-fazer.png?raw=true) -->
 
 ## :page_with_curl: Sobre
-Neste desafio disponibilizado no curso Ignite, da Rocketseat, utilizamos um template de um projeto chamado WhatchMe, uma
-plataforma com um catálogo de filmes de variados gêneros utilizando ReactJS.
+Neste desafio proposto no curso Ignite, da Rocketseat, utilizamos um template de um projeto chamado WhatchMe. O Watchme é uma
+plataforma que disponibiliza um catálogo de filmes de variados gêneros utilizando ReactJS.
 
 O código do projeto padrão, no templete, está todo centralizado em um único arquivo, o desafio consiste em separarmos o código em componentes com o objetivo
 de deixar o código mais limpo, podendo assim utilizar o verdadeiro poder do ReactJS.
