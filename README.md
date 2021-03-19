@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    Desafio Componentização no WatchMe
+    Desafio - WatchMe
 </h1>
 
 <p align="center">
